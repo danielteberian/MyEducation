@@ -1,0 +1,3 @@
+#This is a script to check what the version of the Python that you have installed on your system (technically, it prints out the version of the Python that has been linked to "python").
+
+python --version
